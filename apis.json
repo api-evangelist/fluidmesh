@@ -1,0 +1,95 @@
+{
+    "name": "FluidMesh",
+    "description": "Outdoor Wireless Ethernet Radio Networks and Solutions for point-to-point wireless links, point-to-multipoint wireless networks, wireless mesh network",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20027-fluidmesh.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "isp",
+        "mesh networks",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fluidmesh\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "FluidMesh",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20027-fluidmesh.jpg",
+            "humanURL": "https:\/\/www.fluidmesh.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fluidmesh-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fluidmesh-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.fluidmesh.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fluidmesh-networks"
+        },
+        {
+            "type": "Email",
+            "url": "africa@fluidmesh.com"
+        },
+        {
+            "type": "Email",
+            "url": "middle.east@fluidmesh.com"
+        },
+        {
+            "type": "Email",
+            "url": "australia@fluidmesh.com"
+        },
+        {
+            "type": "Email",
+            "url": "europe@fluidmesh.com"
+        },
+        {
+            "type": "Email",
+            "url": "latin.america@fluidmesh.com"
+        },
+        {
+            "type": "Email",
+            "url": "north.america@fluidmesh.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@fluidmesh.com"
+        },
+        {
+            "type": "Email",
+            "url": "asia@fluidmesh.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@fluidmesh.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@fluidmesh.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fluidmesh"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.fluidmesh.com\/"
+        }
+    ]
+}
